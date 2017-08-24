@@ -1,0 +1,28 @@
+{
+  "name": "interview-codingchallenge-fsjs",
+  "version": "1.0.0",
+  "description": "Hey, welcome to the first coding challenge of your interview process, you'll be presented with a set of steps to accomplish in order to get yourself graded on",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliLV21/interview-codingchallenge-fsjs.git"
+  },
+  "author": "Miriam Elizabeth Laguna Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliLV21/interview-codingchallenge-fsjs/issues"
+  },
+  "homepage": "https://github.com/EliLV21/interview-codingchallenge-fsjs#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4"
+  }
+}
